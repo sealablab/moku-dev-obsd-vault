@@ -1,0 +1,65 @@
+# Obsidian Vault Configuration Files
+# These contain user-specific settings and should not be version controlled
+.obsidian/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace
+.obsidian/workspace-mobile
+.obsidian/workspace.json.backup
+.obsidian/workspace-mobile.json.backup
+
+# Obsidian Cache and Temporary Files
+.obsidian/workspace.json.tmp
+.obsidian/workspace-mobile.json.tmp
+.obsidian/workspace.json.lock
+.obsidian/workspace-mobile.json.lock
+
+# Obsidian Plugin Data (user-specific)
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/snippets/
+
+# Obsidian Hotkeys and Settings (user-specific)
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+.obsidian/app.json
+.obsidian/core-plugins.json
+
+# Obsidian Sync Conflicts
+*.sync-conflict-*
+
+# macOS System Files
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux System Files
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Log Files
+*.log
+
+# Backup Files
+*.bak
+*.backup
+*.old
+
+# Note: All content in obsidian-notes/ and other knowledge directories
+# should be tracked and version controlled. Only Obsidian metadata
+# and system files are excluded.
